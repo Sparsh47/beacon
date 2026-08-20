@@ -1,1 +1,1 @@
-# Beacon - Real-Time Support Call Copilot
+# Beacon: Real-Time Support Call Copilot
